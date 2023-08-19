@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&family=Source+Sans+3:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@1,900&family=Source+Sans+3:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap');
+
+
+
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  .enter-payment-child {
+    position: absolute;
+    top: 0;
+    left: -2px;
+    background-color: #503693;
+    width: 392px;
+    height: 849px;
+    opacity: 0.8;
+  }
+  .enter-payment-item {
+    position: absolute;
+    top: 321px;
+    left: 0;
+    border-radius: 29px 29px 0 0;
+    background-color: #181824;
+    width: 394px;
+    height: 531px;
+  }
+  .universal-coin-id {
+    font-weight: bold;
+    position: absolute;
+    top: 410px;
+    left: 17px;
+  }
+  .g-code,
+  .username {
+    position: absolute;
+    top: 124px;
+    left: 16px;
+  }
+  .g-code {
+    top: 218px;
+  }
+  .forminput1-item,
+  .reference {
+    position: absolute;
+    top: 528px;
+    left: 14px;
+  }
+  .forminput1-item {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 16px;
+    background-color: #323245;
+  }
+  .placeholder1 {
+    position: absolute;
+    top: 35.94%;
+    left: 14.68%;
+    font-weight: 600;
+  }
+  .iconlyhide2,
+  .iconlymessage1 {
+    position: absolute;
+    height: 37.5%;
+    width: 7.34%;
+    top: 31.25%;
+    right: 87.77%;
+    bottom: 31.25%;
+    left: 4.89%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    display: none;
+  }
+  .iconlyhide2 {
+    right: 4.89%;
+    left: 87.77%;
+  }
+  .forminput11,
+  .forminput12 {
+    position: absolute;
+    top: 439px;
+    left: 14px;
+    width: 361px;
+    height: 64px;
+    font-size: 16px;
+    font-family: "Source Sans Pro";
+  }
+  .forminput12 {
+    top: 153px;
+    width: 360px;
+    height: 42px;
+  }
+  .andrew-tate {
+    position: absolute;
+    top: 159px;
+    left: 34px;
+    color: rgba(255, 255, 255, 0.4);
+  }
+  .forminput13 {
+    position: absolute;
+    top: 247px;
+    left: 17px;
+    width: 360px;
+    height: 42px;
+    font-size: 16px;
+    font-family: "Source Sans Pro";
+  }
+  .g12300945 {
+    position: absolute;
+    top: 255px;
+    left: 34px;
+    color: rgba(255, 255, 255, 0.4);
+  }
+  .div1,
+  .forminput14 {
+    color: black;
+    position: absolute;
+    font-family: "Source Sans Pro";
+  }
+  .forminput14 {
+    top: 557px;
+    left: 14px;
+    width: 361px;
+    height: 103px;
+    font-size: 16px;
+  }
+  .div1 {
+    top: 458px;
+    left: 34px;
+    font-weight: 600;
+    width: 160px;
+    height: 27px;
+  }
+  .group-3259-button {
+    position: absolute;
+    top: 62.37px;
+    left: 14.68px;
+    width: 19.82px;
+    height: 15.3px;
+    cursor: pointer;
+  }
+  .enter-payment-inner,
+  .group-child10 {
+    position: absolute;
+    top: 952px;
+    left: -168px;
+    background-color: #d9d9d9;
+    width: 16px;
+    height: 16px;
+  }
+  .group-child10 {
+    top: 0;
+    left: 0;
+    border-radius: 39px;
+    background-color: #9055fa;
+    width: 287.19px;
+    height: 47.25px;
+  }
+  .pay {
+    position: absolute;
+    top: 9px;
+    left: 124px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 37px;
+    height: 29px;
+  }
+  .rectangle-parent8 {
+    top: 0;
+    left: 0;
+  }
+  .group-3273-button1,
+  .group-child11,
+  .rectangle-parent8 {
+    position: absolute;
+    width: 287.19px;
+    height: 47.25px;
+  }
+  .group-3273-button1 {
+    top: 718px;
+    left: 53px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  .group-child11 {
+    top: 0;
+    left: 0;
+    border-radius: 39px;
+    background-color: #4a327e;
+  }
+  .cancel1 {
+    position: absolute;
+    top: 9px;
+    left: 113px;
+    text-transform: capitalize;
+    display: inline-block;
+    width: 66px;
+    height: 29px;
+  }
+  .group-3274-button1,
+  .payment1,
+  .user {
+    position: absolute;
+    font-size: 20px;
+  }
+  .group-3274-button1 {
+    top: 776px;
+    left: 51px;
+    width: 287.19px;
+    height: 47.25px;
+    cursor: pointer;
+    color: #fbfbff;
+  }
+  .payment1,
+  .user {
+    top: 349px;
+    left: 14px;
+    font-family: "Source Sans Pro";
+    text-align: center;
+  }
+  .user {
+    top: 93px;
+  }
+  .enter-payment {
+    position: relative;
+    background-color: #2e213e;
+    width: 100%;
+    height: 849px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: "Zen Maru Gothic";
+  }
+  

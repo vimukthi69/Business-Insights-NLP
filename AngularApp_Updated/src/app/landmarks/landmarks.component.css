@@ -1,0 +1,462 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&family=Source+Sans+3:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@1,900&family=Source+Sans+3:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.landmarks-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #181824;
+  width: 393px;
+  height: 1377px;
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  width: 137px;
+  height: 177px;
+  object-fit: cover;
+}
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 1.67px;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.68);
+  box-sizing: border-box;
+  width: 15px;
+  height: 15px;
+}
+.frame-div,
+.weather-01-1-icon {
+  position: absolute;
+  left: 0;
+  width: 18.33px;
+}
+.weather-01-1-icon {
+  top: 2.22px;
+  height: 10.56px;
+  object-fit: cover;
+}
+.frame-div {
+  top: 2px;
+  height: 15px;
+}
+.frame-container,
+.sunny {
+  position: absolute;
+  top: 0;
+  height: 24px;
+}
+.sunny {
+  left: 22px;
+  display: inline-block;
+  width: 43px;
+}
+.frame-container {
+  left: 62px;
+  width: 65px;
+}
+.la-tu-malara {
+  position: absolute;
+  top: 0;
+  left: 52px;
+}
+.la-tu-malara-parent,
+.la-tu-marala {
+  position: absolute;
+  left: 0;
+  width: 198px;
+}
+.la-tu-marala {
+  top: 26px;
+  font-size: 10px;
+  text-align: center;
+  display: inline-block;
+}
+.la-tu-malara-parent {
+  top: 18px;
+  height: 124px;
+  font-size: 16px;
+}
+.frame-group {
+  position: absolute;
+  top: 17px;
+  left: 162px;
+  width: 198px;
+  height: 142px;
+}
+.frame-inner,
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  height: 177px;
+}
+.rectangle-container {
+  left: 0;
+  width: 360px;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+}
+.frame-inner {
+  left: 223px;
+  border-radius: 10px;
+  width: 137px;
+  object-fit: cover;
+}
+.molanixx {
+  position: absolute;
+  top: 0;
+  left: 63px;
+}
+.molanixx-a-mesmerizing {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  font-size: 10px;
+  color: #fff;
+  display: inline-block;
+  width: 190px;
+}
+.frame-parent2,
+.molanixx-parent {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  width: 190px;
+  height: 122px;
+}
+.frame-parent2 {
+  top: 0;
+  left: 63px;
+  width: 65px;
+  height: 24px;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+}
+.frame-parent1,
+.rectangle-parent1 {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 190px;
+  height: 138px;
+}
+.rectangle-parent1 {
+  top: 204px;
+  width: 360px;
+  height: 177px;
+}
+.losmos-plains,
+.welcome-to-the {
+  position: absolute;
+  top: 0;
+  left: 49px;
+}
+.welcome-to-the {
+  top: 23px;
+  left: 0;
+  font-size: 10px;
+  color: #fff;
+  display: inline-block;
+  width: 199px;
+}
+.frame-parent4,
+.losmos-plains-parent {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  width: 199px;
+  height: 107px;
+}
+.frame-parent4 {
+  top: 0;
+  left: 67px;
+  width: 65px;
+  height: 24px;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+}
+.frame-parent3 {
+  position: absolute;
+  top: 26px;
+  left: 161px;
+  width: 199px;
+  height: 124px;
+}
+.frame-child3,
+.rectangle-parent3 {
+  position: absolute;
+  top: 408px;
+  left: 0;
+  width: 360px;
+  height: 177px;
+}
+.frame-child3 {
+  top: 182px;
+  left: 0.06px;
+  border-radius: 22px;
+  background-color: #4b4b65;
+  border: 5px solid #2d2d3e;
+  box-sizing: border-box;
+  width: 139.94px;
+  height: 182px;
+}
+.attration-3-1 {
+  position: absolute;
+  top: 0;
+  left: -132.69px;
+  width: 236px;
+  height: 183px;
+  object-fit: cover;
+}
+.attration-3-1-wrapper {
+  position: absolute;
+  top: 4px;
+  left: 3.36px;
+  border-radius: 15px;
+  width: 132.69px;
+  height: 174.75px;
+  overflow: hidden;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 0;
+  left: 360px;
+  width: 139.94px;
+  height: 182px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.la-tu-malara-group {
+  position: absolute;
+  top: 29px;
+  left: 0;
+  width: 198px;
+  height: 124px;
+}
+.frame-parent6,
+.frame-parent7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 360px;
+  height: 182px;
+}
+.frame-parent7 {
+  top: 13px;
+  left: 67px;
+  width: 65px;
+  height: 24px;
+  font-size: 12px;
+}
+.frame-parent5 {
+  position: absolute;
+  top: 612px;
+  left: 0;
+  width: 360px;
+  height: 182px;
+  text-align: left;
+  color: #fff;
+}
+.attraction-2-1 {
+  position: absolute;
+  top: -14.63px;
+  left: -8.62px;
+  width: 253px;
+  height: 197px;
+  object-fit: cover;
+}
+.attraction-2-1-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  width: 132.69px;
+  height: 174.75px;
+  overflow: hidden;
+}
+.molanixx-group {
+  position: absolute;
+  top: 23px;
+  left: 164px;
+  width: 190px;
+  height: 122px;
+}
+.frame-parent9,
+.weather-01-1-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 354px;
+  height: 174.75px;
+}
+.weather-01-1-icon4 {
+  top: 12.78px;
+  width: 18.33px;
+  height: 10.56px;
+  object-fit: cover;
+}
+.frame-parent10 {
+  position: absolute;
+  top: 8px;
+  left: 227px;
+  width: 65px;
+  height: 24px;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+}
+.frame-child6,
+.frame-parent8 {
+  position: absolute;
+  top: 818px;
+  left: 0;
+  width: 354px;
+  height: 174.75px;
+}
+.frame-child6 {
+  top: 0;
+  border-radius: 22px;
+  width: 139.94px;
+  height: 182px;
+}
+.attraction-4-1 {
+  position: absolute;
+  top: -5.63px;
+  left: -30.63px;
+  width: 241px;
+  height: 188px;
+  object-fit: cover;
+}
+.attraction-4-1-wrapper {
+  position: absolute;
+  top: 3.63px;
+  left: 3.63px;
+  border-radius: 15px;
+  width: 132.69px;
+  height: 174.75px;
+  overflow: hidden;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 0;
+  left: 217px;
+  width: 139.94px;
+  height: 182px;
+}
+.losmos-plains-group {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  width: 199px;
+  height: 107px;
+}
+.frame-parent12,
+.frame-parent13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 356.94px;
+  height: 182px;
+}
+.frame-parent13 {
+  top: 23px;
+  left: 67px;
+  width: 65px;
+  height: 24px;
+  text-align: left;
+  font-size: 12px;
+  color: #fff;
+}
+.frame-parent,
+.frame-parent11 {
+  position: absolute;
+  top: 1010px;
+  left: 7px;
+  width: 356.94px;
+  height: 182px;
+}
+.frame-parent {
+  top: 0;
+  left: 0;
+  width: 363.94px;
+  height: 1192px;
+}
+.landmarks1 {
+  position: absolute;
+  top: -97px;
+  left: 0;
+  font-size: 40px;
+  color: #fff;
+  text-align: left;
+}
+.vertical-scroll {
+  position: absolute;
+  top: 169px;
+  left: 16px;
+  width: 363px;
+  height: 615px;
+  overflow-y: auto;
+}
+.landmarks-item {
+  position: absolute;
+  top: 781px;
+  left: 0;
+  width: 393px;
+  height: 68px;
+}
+.group-3258-button {
+  position: absolute;
+  top: 62.37px;
+  left: 14.68px;
+  width: 19.82px;
+  height: 15.3px;
+}
+.landmarks {
+  position: relative;
+  background-color: #181824;
+  width: 100%;
+  height: 849px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  color: #c5c5c8;
+  font-family: "Zen Maru Gothic";
+}
+
+.navigation-panel {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #4a327e;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  box-shadow: 0px -2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-icon {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nav-icon img {
+  width: 50px;
+  height: 30px;
+  margin-bottom: 5px;
+}

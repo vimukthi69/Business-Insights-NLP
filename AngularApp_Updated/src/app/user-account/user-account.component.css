@@ -1,0 +1,319 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen Maru Gothic:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source Sans Pro:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.user-account-child,
+.user-account-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #181824;
+  width: 393px;
+  height: 852px;
+}
+.user-account-item {
+  border-radius: 0 0 40px 40px;
+  background-color: rgba(144, 85, 250, 0.42);
+  height: 287px;
+}
+.user-1-1-wrapper,
+.user-1-12 {
+  position: absolute;
+  width: 127px;
+  height: 127px;
+}
+.user-1-12 {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.user-1-1-wrapper {
+  top: 83px;
+  left: 133px;
+}
+.andrew-tate3 {
+  position: absolute;
+  top: 227px;
+  left: 143px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #fff;
+}
+.cardprofile-inner,
+.iconlyarrow-right-22 {
+  position: absolute;
+  height: 54.24%;
+  width: 10.03%;
+  top: 8.47%;
+  right: 89.97%;
+  bottom: 37.29%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconlyarrow-right-22 {
+  height: 30.51%;
+  width: 5.64%;
+  top: 20.34%;
+  right: 0;
+  bottom: 49.15%;
+  left: 94.36%;
+  display: none;
+}
+.andrew-tate4 {
+  position: absolute;
+  top: 60%;
+  left: 0;
+}
+.andrew-tate-group,
+.cardprofile-child1 {
+  position: absolute;
+  height: 84.75%;
+  width: 26.02%;
+  top: 0;
+  right: 58.93%;
+  bottom: 15.25%;
+  left: 15.05%;
+}
+.cardprofile-child1 {
+  height: 1.69%;
+  width: 77.74%;
+  top: 100%;
+  right: 7.21%;
+  bottom: -1.69%;
+  background-color: #9055fa;
+}
+.cardprofile1 {
+  position: absolute;
+  top: 396px;
+  left: 17px;
+  width: 319px;
+  height: 59px;
+}
+.brian-imanuel1,
+.name2 {
+  position: absolute;
+  left: 0;
+  font-weight: 600;
+}
+.brian-imanuel1 {
+  top: 125%;
+  text-decoration: underline;
+  color: inherit;
+  display: none;
+}
+.name2 {
+  top: 0;
+  font-size: 16px;
+  color: #fff;
+}
+.brian-imanuel-group {
+  position: absolute;
+  height: 33.9%;
+  width: 14.11%;
+  top: 0;
+  right: 70.85%;
+  bottom: 66.1%;
+  left: 15.05%;
+}
+.cardprofile2 {
+  position: absolute;
+  top: 478px;
+  left: 17px;
+  width: 319px;
+  height: 59px;
+  font-size: 14px;
+}
+.galactic-code {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  color: #fff;
+}
+.parent {
+  position: absolute;
+  height: 84.75%;
+  width: 28.84%;
+  top: 0;
+  right: 56.11%;
+  bottom: 15.25%;
+  left: 15.05%;
+}
+.cardprofile3 {
+  position: absolute;
+  top: 561px;
+  left: 17px;
+  width: 319px;
+  height: 59px;
+}
+.astrium,
+.astrium-parent {
+  position: absolute;
+  top: 57.45%;
+  left: 0;
+}
+.astrium-parent {
+  height: 79.66%;
+  width: 27.9%;
+  top: 0;
+  right: 57.05%;
+  bottom: 20.34%;
+  left: 15.05%;
+}
+.cardprofile4,
+.sector-12 {
+  position: absolute;
+  top: 644px;
+  left: 17px;
+  width: 319px;
+  height: 59px;
+}
+.sector-12 {
+  height: 2.35%;
+  width: 15.78%;
+  top: 59.27%;
+  left: 16.54%;
+  display: inline-block;
+}
+.edit-profile-icon4 {
+  position: absolute;
+  height: 3.76%;
+  width: 8.14%;
+  top: 20.89%;
+  right: 33.84%;
+  bottom: 75.35%;
+  left: 58.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-3258-button2 {
+  position: absolute;
+  top: 62.37px;
+  left: 14.68px;
+  width: 19.82px;
+  height: 15.3px;
+  cursor: pointer;
+}
+.user-account-inner {
+  position: absolute;
+  top: 729px;
+  left: 0;
+  width: 393px;
+  height: 123px;
+}
+.profile2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-3433-button-child {
+  position: absolute;
+  top: 27px;
+  left: 19px;
+  border-radius: 50%;
+  background-color: #b997fa;
+  width: 10px;
+  height: 10px;
+}
+.group-3433-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 47px;
+  height: 37px;
+}
+.group-3434-button-child {
+  position: absolute;
+  top: 27px;
+  left: 25px;
+  border-radius: 50%;
+  background-color: #4a327e;
+  width: 10px;
+  height: 10px;
+}
+.group-3434-button {
+  position: absolute;
+  top: 0;
+  left: 121px;
+  width: 66px;
+  height: 37px;
+  cursor: pointer;
+}
+.history-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 51px;
+  height: 23px;
+}
+.group-3435-button-child {
+  position: absolute;
+  top: 27px;
+  left: 21px;
+  border-radius: 50%;
+  background-color: #4a327e;
+  width: 10px;
+  height: 10px;
+}
+.group-3435-button {
+  position: absolute;
+  top: 0;
+  left: 251px;
+  width: 51px;
+  height: 37px;
+  cursor: pointer;
+}
+.group-3433-button-parent {
+  position: absolute;
+  top: 307px;
+  left: 45px;
+  width: 302px;
+  height: 37px;
+  color: #fff;
+  font-family: "Zen Maru Gothic";
+}
+.user-account {
+  position: relative;
+  background-color: #181824;
+  width: 100%;
+  height: 849px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #c4c4c4;
+  font-family: "Source Sans Pro";
+}
+
+.navigation-panel {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #4a327e;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  box-shadow: 0px -2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-icon {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nav-icon img {
+  width: 50px;
+  height: 30px;
+  margin-bottom: 5px;
+}
