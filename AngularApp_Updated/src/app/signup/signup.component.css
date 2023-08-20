@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&family=Source+Sans+3:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@1,900&family=Source+Sans+3:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap');
+
+
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  .group-icon1 {
+    position: absolute;
+    opacity: 50%;
+    height: 50.16%;
+    width: 440px;
+    top: 8.6%;
+    bottom: 41.24%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .line1 {
+    position: absolute;
+    width: calc(100% - 324px);
+    right: 166px;
+    bottom: 476px;
+    left: 158px;
+    border-radius: 100px;
+    background-color: #523273;
+    height: 5px;
+    opacity: 0.1;
+  }
+  .stroke-1-icon {
+    position: relative;
+    width: 16.73px;
+    height: 16.73px;
+  }
+  .remember-me,
+  .stroke-1-parent {
+    position: absolute;
+    top: 0;
+    left: 25px;
+  }
+  .stroke-1-parent {
+    top: 692px;
+    left: 19px;
+    width: 111px;
+    height: 18px;
+    font-size: 14px;
+  }
+  .placeholder2 {
+    position: absolute;
+    top: 8.33%;
+    left: 33.29%;
+    font-weight: 600;
+  }
+  .iconlymessage2 {
+    position: absolute;
+    height: 100%;
+    width: 24.76%;
+    top: 0;
+    right: 75.24%;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .placeholder-parent,
+  .sign-up-inner {
+    position: absolute;
+    top: 7px;
+    left: 19px;
+    width: 106.43px;
+    height: 24px;
+  }
+  .sign-up-inner {
+    height: 4.48%;
+    width: 88.21%;
+    top: 42.76%;
+    right: 7.13%;
+    bottom: 52.77%;
+    left: 4.67%;
+    border-radius: 16px;
+    background-color: #503693;
+  }
+  .group-3258-button1 {
+    position: absolute;
+    top: 62.37px;
+    left: 14.68px;
+    width: 19.82px;
+    height: 15.3px;
+    cursor: pointer;
+  }
+  .sign-up-child {
+    position: absolute;
+    align-items: center;
+    top: 257px;
+    left: 0;
+    right: 0;
+    border-radius: 42px 42px 0 0;
+    background-color: #181824;
+    width: 410px;
+    height: 575px;
+  }
+  .placeholder-input {
+    position: absolute;
+    top: 23.68%;
+    left: 165px;
+    font-weight: 600;
+  }
+  .iconlypassword-svg {
+    position: absolute;
+    height: 63.16%;
+    width: 7.34%;
+    top: 18.42%;
+    right: 87.38%;
+    bottom: 18.42%;
+    left: 5.28%;
+    border-radius: 13px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .placeholder-input-parent {
+    position: absolute;
+    height: 4.48%;
+    width: 88.45%;
+    top: 65.02%;
+    right: 5.65%;
+    bottom: 30.51%;
+    left: 5.9%;
+    border-radius: 16px;
+    background-color: #503693;
+  }
+  .placeholder3 {
+    position: absolute;
+    top: 8px;
+    left: 165px;
+    font-weight: 600;
+  }
+  .iconlymessage-svg {
+    position: absolute;
+    height: 100%;
+    top: 8px;
+    bottom: 0;
+    left: 10px;
+    max-width: 60%;
+    overflow: hidden;
+    max-height: 60%;
+  }
+  
+  .g-code {
+    position: absolute;
+    top: 10px;
+    bottom: 0;
+    left: 40px;
+  }
+  
+  .passcode {
+    position: absolute;
+    top: 10px;
+    bottom: 0;
+    left: 40px;
+  }
+  
+  .certify {
+    position: absolute;
+    top: 10px;
+    bottom: 0;
+    left: 40px;
+  }
+  
+  .sector {
+    position: absolute;
+    top: 10px;
+    bottom: 0;
+    left: 40px;
+  }
+  
+  .homePlanet {
+    position: absolute;
+    top: 10px;
+    bottom: 0;
+    left: 40px;
+  }
+  
+  .placeholder-group,
+  .sign-up-inner1 {
+    position: absolute;
+    top: 7px;
+    left: 19px;
+    width: 84.43px;
+    height: 24px;
+  }
+  .sign-up-inner1 {
+    height: 4.48%;
+    width: 88.21%;
+    top: 46.88%;
+    right: 5.65%;
+    bottom: 48.65%;
+    left: 6.14%;
+    border-radius: 16px;
+    background-color: #503693;
+  }
+  .sign-in1 {
+    position: relative;
+  }
+  .buttonbiru1 {
+    position: absolute;
+    top: 716px;
+    left: 29px;
+    border-radius: 16px;
+    background-color: #9055fa;
+    width: 352px;
+    height: 63px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px 73px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .placeholder-input1 {
+    color: blueviolet;
+    position: absolute;
+    top: 23.68%;
+    left: 165px;
+    font-weight: 600;
+  }
+  .iconlypassword-svg1 {
+    position: absolute;
+    height: 63.16%;
+    width: 7.34%;
+    top: 18.42%;
+    right: 86.83%;
+    bottom: 18.42%;
+    left: 5.83%;
+    border-radius: 16px;
+    max-width: 60%;
+    overflow: hidden;
+    max-height: 60%;
+  }
+  .placeholder-input-group {
+    position: absolute;
+    height: 4.48%;
+    width: 88.45%;
+    top: 53%;
+    right: 6.14%;
+    bottom: 42.52%;
+    left: 5.41%;
+    border-radius: 16px;
+    background-color: #503693;
+  }
+  .placeholder-input2 {
+    position: absolute;
+    top: 23.68%;
+    left: 165px;
+    font-weight: 600;
+  }
+  
+  .placeholder-input3 {
+    position: absolute;
+    top: 8.33%;
+    left: 80px;
+    font-weight: 600;
+  }
+  
+  .iconlypassword-svg2 {
+    position: absolute;
+    height: 63.16%;
+    width: 7.34%;
+    top: 18.42%;
+    right: 87.66%;
+    bottom: 18.42%;
+    left: 5%;
+    border-radius: 13px;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .placeholder-input-container {
+    position: absolute;
+    height: 4.48%;
+    width: 88.45%;
+    top: 59.13%;
+    right: 5.41%;
+    bottom: 36.4%;
+    left: 6.14%;
+    border-radius: 16px;
+    background-color: #503693;
+  }
+  .group-3381-svg {
+    position: absolute;
+    top: 11px;
+    left: 25px;
+    width: 18px;
+    height: 18px;
+  }
+  .placeholder-container {
+    position: absolute;
+    height: 4.48%;
+    width: 88.45%;
+    top: 71.14%;
+    right: 6.14%;
+    bottom: 24.38%;
+    left: 5.41%;
+    border-radius: 16px;
+    background-color: #503693;
+  }
+  .sign-up {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 410px;
+    height: 849px;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    font-family: "Source Sans Pro";
+  }
+  

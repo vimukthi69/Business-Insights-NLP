@@ -1,0 +1,332 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&family=Source+Sans+3:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@1,900&family=Source+Sans+3:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.confirmation-child,
+.group-child3 {
+  position: absolute;
+  top: 337px;
+  left: 0;
+  width: 391px;
+  height: 3px;
+}
+.group-child3 {
+  top: 0;
+  border-radius: 40px 40px 0 0;
+  background-color: #181824;
+  width: 393px;
+  height: 780px;
+}
+.firefly-celestial-cruiser-a-s-icon {
+  position: absolute;
+  top: 23px;
+  left: 92px;
+  width: 208px;
+  height: 173px;
+  object-fit: cover;
+}
+.ear,
+.ga-3432 {
+  position: absolute;
+}
+.ga-3432 {
+  top: 167px;
+  left: 160px;
+  font-size: 20px;
+}
+.ear {
+  top: 0;
+  left: 0;
+}
+.ear-parent,
+.earth {
+  position: absolute;
+  top: 25px;
+  left: 3px;
+  font-size: 13px;
+}
+.ear-parent {
+  top: 244px;
+  left: 50px;
+  width: 38px;
+  height: 44px;
+  font-size: 20px;
+}
+.nbl,
+.nibuloria {
+  position: absolute;
+  top: 25px;
+  left: 0;
+}
+.nbl {
+  top: 0;
+  left: 9px;
+  font-size: 20px;
+}
+.nibuloria-parent {
+  position: absolute;
+  top: 244px;
+  left: 291px;
+  width: 53px;
+  height: 44px;
+  font-size: 13px;
+}
+.days {
+  position: absolute;
+  top: 71px;
+  left: 70px;
+}
+.days-parent,
+.line-segment-1-icon {
+  position: absolute;
+  width: 195px;
+  height: 195px;
+}
+.line-segment-1-icon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.days-parent {
+  top: 162px;
+  left: 99px;
+}
+.group-child4,
+.price {
+  position: absolute;
+  top: 0;
+}
+.group-child4 {
+  left: 0;
+  border-radius: 10px;
+  width: 328px;
+  height: 64px;
+  mix-blend-mode: overlay;
+}
+.price {
+  left: 148px;
+}
+.span {
+  font-size: 20px;
+}
+.div {
+  position: absolute;
+  top: 18px;
+  left: 144px;
+  font-weight: 500;
+  font-size: 30px;
+}
+.vector-parent {
+  position: absolute;
+  top: 405px;
+  left: 33px;
+  width: 328px;
+  height: 64px;
+  font-size: 16px;
+}
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  background-color: #d9d9d9;
+  width: 137px;
+  height: 64px;
+  mix-blend-mode: overlay;
+}
+.pm,
+.time {
+  position: absolute;
+  top: 0;
+  left: 58px;
+}
+.pm {
+  top: 26px;
+  left: 47px;
+  font-weight: 500;
+}
+.clock-1-icon {
+  position: absolute;
+  top: 6px;
+  left: 39px;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.group-child6,
+.rectangle-parent5 {
+  position: absolute;
+  top: 327px;
+  left: 222px;
+  width: 137px;
+  height: 64px;
+}
+.group-child6 {
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  width: 138px;
+  mix-blend-mode: overlay;
+}
+.th-of-march {
+  position: absolute;
+  top: 26px;
+  left: 24px;
+  font-weight: 500;
+}
+.calendar-1-1 {
+  position: absolute;
+  top: 6px;
+  left: 35px;
+  width: 16px;
+  height: 16px;
+  object-fit: cover;
+}
+.group-child7,
+.vector-group {
+  position: absolute;
+  top: 327px;
+  left: 31px;
+  width: 138px;
+  height: 64px;
+}
+.group-child7 {
+  top: 6px;
+  left: 0;
+  border-radius: 10px;
+  width: 328px;
+  height: 84px;
+  mix-blend-mode: overlay;
+}
+.barcode-1-icon,
+.barcode-3-icon {
+  width: 77px;
+  height: 78px;
+  object-fit: cover;
+}
+.barcode-1-icon {
+  position: absolute;
+  top: 10px;
+  left: 131px;
+}
+.barcode-3-icon {
+  position: relative;
+}
+.barcode-3-wrapper {
+  position: absolute;
+  top: 0;
+  left: 34px;
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.barcode-2-icon {
+  position: absolute;
+  top: 10px;
+  left: 216px;
+  width: 77px;
+  height: 78px;
+  object-fit: cover;
+}
+.vector-container {
+  position: absolute;
+  top: 477px;
+  left: 31px;
+  width: 328px;
+  height: 98px;
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 132px;
+  left: 1px;
+  width: 393px;
+  height: 780px;
+  font-size: 15px;
+}
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 39px;
+  background-color: #9055fa;
+  width: 287.19px;
+  height: 47.25px;
+}
+.confirm {
+  position: absolute;
+  top: 9px;
+  left: 108px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 88px;
+  height: 29px;
+}
+.rectangle-parent6 {
+  top: 0;
+  left: 0;
+}
+.group-3273-button,
+.group-child9,
+.rectangle-parent6 {
+  position: absolute;
+  width: 287.19px;
+  height: 47.25px;
+}
+.group-3273-button {
+  top: 718px;
+  left: 54px;
+  cursor: pointer;
+}
+.group-child9 {
+  top: 0;
+  left: 0;
+  border-radius: 39px;
+  background-color: #4a327e;
+}
+.cancel {
+  position: absolute;
+  top: 9px;
+  left: 108px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 93px;
+  height: 29px;
+}
+.group-3274-button {
+  position: absolute;
+  top: 774px;
+  left: 54px;
+  width: 287.19px;
+  height: 47.25px;
+  cursor: pointer;
+  color: #fbfbff;
+}
+.confirmation1 {
+  position: absolute;
+  top: 63px;
+  left: 82px;
+  font-size: 40px;
+  font-weight: 600;
+  font-family: "Source Sans 3";
+  display: inline-block;
+  width: 298px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+}
+.confirmation {
+  position: relative;
+  background-color: #4a327e;
+  width: 100%;
+  height: 849px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #fff;
+  font-family: "Zen Maru Gothic";
+}

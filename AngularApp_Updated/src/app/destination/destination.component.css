@@ -1,0 +1,189 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen Maru Gothic:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source Sans Pro:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+.destination-child {
+  position: absolute;
+  top: -69px;
+  left: 0;
+  border-radius: 40px 40px 0 0;
+  background-color: rgba(255, 255, 255, 0.68);
+  width: 393px;
+  height: 640px;
+}
+.planet-3-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 424px;
+  height: 330px;
+  object-fit: cover;
+}
+.destination-item {
+  position: absolute;
+  top: 212px;
+  left: 0;
+  border-radius: 40px 40px 0 0;
+  background-color: #181824;
+  width: 393px;
+  height: 640px;
+}
+.enveloped-in-mist,
+.nebuloria {
+  position: absolute;
+  display: inline-block;
+}
+.enveloped-in-mist {
+  top: 368px;
+  left: 18px;
+  font-size: 16px;
+  color: var(--color-gray-400); /*no variable in global*/
+  text-align: center;
+  width: 356px;
+}
+.nebuloria {
+  top: 133px;
+  left: 9px;
+  width: 237px;
+}
+.destination-inner {
+  position: absolute;
+  top: 237px;
+  left: 163px;
+  border-radius: var(--br-65xl); /*no variable in global*/
+  background-color: #9055fa;
+  width: 67px;
+  height: 5px;
+}
+.frame-11-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  border: 5px solid #2d2d3e;
+  box-sizing: border-box;
+  width: 361px;
+  height: 180px;
+}
+.firefly-an-attractive-scenario {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 380px;
+  height: 380px;
+  object-fit: cover;
+}
+.discover {
+  font-size: xx-large;
+  color: white;
+  position: absolute;
+  top: 75px;
+  left: 94px;
+  display: inline-block;
+  width: 159px;
+  mix-blend-mode: normal;
+}
+.frame-11-button {
+  position: absolute;
+  top: 550px;
+  left: 16px;
+  border-radius: 15px;
+  width: 361px;
+  height: 180px;
+  overflow: hidden;
+}
+.group-3258-button3 {
+  position: absolute;
+  top: 62.37px;
+  left: 14.68px;
+  width: 19.82px;
+  height: 15.3px;
+  cursor: pointer;
+}
+.group-child29 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  background-color: #9055fa;
+  width: 198.57px;
+  height: 54.51px;
+}
+.book-now,
+.group-child30 {
+  position: absolute;
+  top: 15.67px;
+  left: 166.61px;
+  width: 10.13px;
+  height: 22.7px;
+}
+.book-now {
+  color: white;
+  top: 15px;
+  left: 21px;
+  display: inline-block;
+  width: 160px;
+  height: 27px;
+}
+.group-3272-button,
+.rectangle-parent18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 212px;
+  height: 54.51px;
+}
+.group-3272-button {
+  top: 265px;
+  left: 91px;
+  font-size: 20px;
+}
+.destination-child1 {
+  position: absolute;
+  top: 781px;
+  left: 0;
+  width: 393px;
+  height: 71px;
+}
+.destination {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 849px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  color: #fff;
+  font-family: "Zen Maru Gothic";
+}
+
+.navigation-panel {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #4a327e;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 0;
+  box-shadow: 0px -2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-icon {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.nav-icon img {
+  width: 50px;
+  height: 30px;
+  margin-bottom: 5px;
+}
